@@ -1,5 +1,14 @@
 ## Hi there 👋
+  
+I am passionate about **open-source, coding and building projects**.
+
+### 🌟 Hacktoberfest 2025 Achievement
 [![An image of @yourusername's Holopin badges, which is a link to view the full Holopin profile](https://holopin.me/shreyakash24)](https://holopin.io/@shreyakash24)
+- SuperContributor badge 🏅  
+- Hacktoberfest t-shirt 👕  
+- Tree planted in my name: Phyllanthus emblica 🌱 [Certificate Here](https://tree-nation.com/certificate/e3ea65f5b621d81c)
+
+### 📫 LinkedIn: [Profile here](https://www.linkedin.com/in/shreya-kashikar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!--
 **shreyakash24/shreyakash24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
