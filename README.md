@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![An image of @yourusername's Holopin badges, which is a link to view the full Holopin profile](https://holopin.me/shreyakash24)](https://holopin.io/@shreyakash24)
 
 <!--
 **shreyakash24/shreyakash24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
